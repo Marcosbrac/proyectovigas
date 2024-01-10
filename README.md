@@ -1,0 +1,2 @@
+# proyectovigas
+Calculadora vigas
